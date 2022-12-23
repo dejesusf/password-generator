@@ -7,8 +7,8 @@ JavaScript provides the page with interactivity and makes webpages more dimensio
 
 ## Website
 
-Here is a screenshot of the generator.
-![screenshot of the generator](screen shot 2022-12-22 at 8.54.50PM.png)
+Here is a screenshot of the generator:
+![screenshot of the generator](Screen%20Shot%202022-12-22%20at%208.54.50%20PM.png)
 
 ## Link
 Here is the [link](dejesusf.github.io/password-generator) to the password generator.
