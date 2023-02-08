@@ -11,4 +11,4 @@ Here is a screenshot of the application generating a password:
 ![screenshot of the generator](./assets/password%20generated.png)
 
 ## Link
-Here is the [link](dejesusf.github.io/password-generator) to the password generator.
+Here is the [link](https://dejesusf.github.io/password-generator/) to the password generator.
